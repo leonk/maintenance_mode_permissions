@@ -1,0 +1,4 @@
+name = Maintenance Mode Permissions
+description = "Provide more fine grained access for the maintenance mode settings."
+
+core = 7.x

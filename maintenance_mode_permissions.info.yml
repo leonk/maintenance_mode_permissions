@@ -1,0 +1,7 @@
+name: Maintenance Mode Permissions
+description: Provide more fine grained access for the maintenance mode settings.
+package: Other
+type: module
+core: 8.x
+dependencies:
+  - system

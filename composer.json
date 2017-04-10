@@ -1,0 +1,6 @@
+{
+    "name": "drupal/maintenance_mode_permissions",
+    "description": "Provide more fine grained access for the maintenance mode settings.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}

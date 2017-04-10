@@ -1,0 +1,3 @@
+# Permissions for the maintenance mode permissions module
+administer maintenance mode:
+  title: 'Administer maintenance mode'

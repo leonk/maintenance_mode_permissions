@@ -1,0 +1,5 @@
+services:
+  maintenance_mode_permissions.subscriber:
+    class: Drupal\maintenance_mode_permissions\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
